@@ -1,6 +1,6 @@
 # KYCPORT – Secure, Global Identity Verification
 
-[![Visit KYCPORT](https://img.shields.io/badge/Visit%20KYCPORT-kycport.com-blue?style=for-the-badge&logo=google-chrome)](https://kkycport.com)
+[![Visit KYCPORT](https://img.shields.io/badge/Visit%20KYCPORT-kycport.com-blue?style=for-the-badge&logo=google-chrome)](https://kcyport.com)
 
 **KYCPORT** is a **secure, blockchain-enhanced identity verification platform** designed to make **Know Your Customer (KYC)** and **Know Your Business (KYB)** processes **faster, safer, and globally accessible**.  
 Serving **7M+ users** worldwide, KYCPORT enables individuals and businesses to verify identities and access Web3, DeFi, fintech, and banking ecosystems with **one trusted account**.
@@ -35,14 +35,14 @@ Traditional verification processes are slow, costly, and prone to data leaks.
 
 ## 🔗 Quick Access
 
-- 🌐 **Platform Homepage** → [https://kycport.com](https://kkycport.com)  
+- 🌐 **Platform Homepage** → [https://kycport.com](https://kcyport.com)  
 - 📱 **Mobile Access** → Fully mobile-optimized interface  
 
 ---
 
 ## 🚀 How It Works
 
-1. **Create a KYCPORT Account** at [kycport.com](https://kkycport.com)  
+1. **Create a KYCPORT Account** at [kycport.com](https://kcyport.com)  
 2. **Submit Your Identity** – Upload valid ID and proof of address  
 3. **Get Verified** – KYCPORT verifies your identity or business details  
 4. **Access Multiple Platforms** – Log in to Web3 dApps, exchanges, and fintech apps without re-verifying  
@@ -86,7 +86,7 @@ KYCPORT is the **official gateway** to the [SidraChain](https://sldrachain.com) 
 
 ## 📢 Join KYCPORT Today
 
-- 🌍 Visit → [https://kycport.com](https://kkycport.com)  
+- 🌍 Visit → [https://kycport.com](https://kcyport.com)  
 
 ---
 
